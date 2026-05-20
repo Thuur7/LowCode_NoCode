@@ -1,4 +1,4 @@
-🌐 Translator App
+#🌐 Translator App
 
 Projeto Módulo 3 – Low Code/No Code/Vibecode
 
@@ -9,7 +9,7 @@ Projeto Módulo 3 – Low Code/No Code/Vibecode
 
 
 
-📌 Desafio Escolhido
+#📌 Desafio Escolhido
 
 Criar uma aplicação web de tradução automática de inglês para português brasileiro que funcione de forma intuitiva e responsiva. O desafio foi desenvolver um tradutor que não requer cliques adicionais, oferecendo tradução instantânea enquanto o usuário digita, com interface moderna e profissional.
 
@@ -18,7 +18,7 @@ Objetivo Principal: Demonstrar como construir uma aplicação funcional e visual
 
 
 
-🖥️ Protótipo
+#🖥️ Protótipo
 
 📸 Screenshots da Aplicação
 
@@ -90,7 +90,7 @@ Modo Responsivo (Mobile)
 
 Layout adaptado para dispositivos móveis, mantendo toda a funcionalidade em telas pequenas.
 
-🎯 Como o Protótipo Funciona
+#🎯 Como o Protótipo Funciona
 
 1.
 Entrada de Texto: Usuário digita um texto em inglês no painel esquerdo
@@ -135,7 +135,7 @@ Os arquivos de imagem estão localizados na pasta /docs do repositório.
 
 
 
-⚙️ Plataforma Utilizada
+#⚙️ Plataforma Utilizada
 
 Tecnologias Principais
 
@@ -169,7 +169,7 @@ Manus WebDev: Plataforma de hospedagem e desenvolvimento web
 •
 MyMemory API: Serviço gratuito de tradução
 
-🎯 Justificativa da Escolha
+#🎯 Justificativa da Escolha
 
 Por que React + TypeScript?
 
@@ -230,7 +230,7 @@ Sem Configuração: Pronto para usar
 
 
 
-✅ Vantagens Identificadas
+#✅ Vantagens Identificadas
 
 1️⃣ Desenvolvimento Rápido e Ágil
 
@@ -337,7 +337,7 @@ Impacto: Aplicação disponível online em minutos.
 
 
 
-⚠️ Limitações Encontradas
+#⚠️ Limitações Encontradas
 
 1️⃣ Qualidade de Tradução Limitada
 
@@ -798,7 +798,7 @@ As soluções propostas para contornar as limitações mostram pensamento críti
 Versão: 1.0.0
 Status: Completo e Funcional
 Data: Maio de 2026
-Autor: Thuur7
+Autores: Arthur Oliveira Gomes, Gabriel Souza Mendes 
 Disciplina: Módulo 3 – Low Code/No Code/Vibecode
 Professor: Kadidja Valéria
 
