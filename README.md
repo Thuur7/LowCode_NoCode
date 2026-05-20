@@ -2,6 +2,12 @@ Translator App
 
 Um site moderno de tradução de inglês para português que traduz automaticamente enquanto você digita.
 
+<img width="1362" height="633" alt="image" src="https://github.com/user-attachments/assets/689040af-6e6a-4cda-8980-48f264abcc9b" />
+
+<img width="1364" height="634" alt="image" src="https://github.com/user-attachments/assets/7876e814-9c12-48c4-92fc-f660600f5673" />
+
+
+
 🎯 Descrição
 
 Translator App é uma aplicação web que oferece tradução instantânea de textos do inglês para português brasileiro. Diferente dos tradutores convencionais, este projeto não requer cliques adicionais - a tradução aparece automaticamente conforme você digita.
